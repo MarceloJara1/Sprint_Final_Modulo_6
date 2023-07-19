@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sprint Final Modulo 6</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Celulares</string>
+    <string name="second_fragment_label">Producto</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="contactar_area_de_ventas">Contactar Area de Ventas</string>
+</resources>
